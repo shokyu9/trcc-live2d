@@ -1,0 +1,1 @@
+{"name":"trcc-live2d-renderer","private":true,"type":"module","scripts":{"build":"vite build"},"dependencies":{"pixi-live2d-display":"0.4.0","pixi-live2d-display-lipsyncpatch":"^0.5.0-ls-8","pixi.js":"6.5.10","pixi7":"npm:pixi.js@^7.4.3","playwright":"1.58.2"},"devDependencies":{"vite":"6.3.6"}}
